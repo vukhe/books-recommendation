@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+recommender
+numpy
+torch
+faiss
+pickle
+pathlib
+sentence_transformers
+tqdm
+random
